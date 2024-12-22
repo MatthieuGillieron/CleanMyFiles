@@ -1,5 +1,6 @@
 #!/bin/bash
 source venv/bin/activate
 pip install -r requirements.txt
-echo "\n Ready! For start write : python script.py"
+echo -e "\n"
+echo "Ready! For start write : python3 script.py"
 
