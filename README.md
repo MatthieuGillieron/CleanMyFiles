@@ -9,7 +9,7 @@ Voici un aperçu de l'interface graphique du projet avec les différentes étape
 <div style="display: flex; justify-content: space-between;">
 
   <img src="images/1.png" alt="Image 1" width="30%" style="margin-right: 10px;">
-  <img src="images/2.png" alt="Image 2" width="30%" style="margin-right: 10px;">
+  <img src="images/2.png" alt="Image 2" width="40%" style="margin-right: 10px;">
   <img src="images/3.png" alt="Image 3" width="30%">
 
 </div>
