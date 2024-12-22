@@ -28,6 +28,7 @@ Avant d'exécuter le projet, vous devez avoir Python installé sur votre machine
 
 Clonez ce projet en utilisant Git :
 
+(MacOS)
 ```bash
 git clone https://github.com/MatthieuGillieron/CleanMyFils.git
 cd CleanMyFils
