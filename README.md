@@ -14,7 +14,7 @@
 
 - **Python** : Langage de programmation principal.
 - **Tkinter** : Bibliothèque pour l'interface graphique.
-- **ttkbootstrap** : Extension de Tkinter pour un look moderne.
+- **ttkbootstrap** : Extension de Tkinter.
 - **shutil** : Pour déplacer les fichiers.
 - **os** : Pour interagir avec le système de fichiers.
 
@@ -31,3 +31,5 @@ Clonez ce projet en utilisant Git :
 ```bash
 git clone https://github.com/MatthieuGillieron/CleanMyFils.git
 cd CleanMyFils
+./setup.sh "Setup du prog. automatique"
+python script.py "Run le prog."
