@@ -19,8 +19,7 @@ Voici un aperçu de l'interface graphique du projet avec les différentes étape
 - Organiser les fichiers dans un répertoire par catégorie.
 - Catégoriser les fichiers par type : Images, Vidéos, Documents, Musique, Archives, Autres.
 - Interface utilisateur simple et intuitive avec Tkinter.
-- Choix de langue (Anglais / Français).
-- Lien direct vers mon profil GitHub pour plus d'informations.
+- Choix de langue (Anglais / Français) pour les noms des dossiers.
 
 ## Technologies utilisées
 
@@ -34,15 +33,17 @@ Voici un aperçu de l'interface graphique du projet avec les différentes étape
 
 ### Prérequis
 
-Avant d'exécuter le projet, vous devez avoir Python installé sur votre machine. Vous pouvez télécharger Python à partir de [python.org](https://www.python.org/downloads/).
+Avant d'exécuter le projet, vous devez avoir Python installé. Vous pouvez télécharger Python à partir de [python.org](https://www.python.org/downloads/).
 
 ### Cloner le projet
 
-Clonez ce projet en utilisant Git :
 
 (MacOS)
 ```bash
 git clone https://github.com/MatthieuGillieron/CleanMyFils.git
 cd CleanMyFils
+```
+
+```bash
 ./setup.sh
 python script.py
