@@ -35,7 +35,7 @@ Voici un aperçu de l'interface graphique du projet avec les différentes étape
 
 Avant d'exécuter le projet, vous devez avoir Python installé. Vous pouvez télécharger Python à partir de [python.org](https://www.python.org/downloads/).
 
-### MacOS
+### MacOS :
 
 1. Cloner le projet
 ```bash
