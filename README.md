@@ -35,15 +35,16 @@ Voici un aperçu de l'interface graphique du projet avec les différentes étape
 
 Avant d'exécuter le projet, vous devez avoir Python installé. Vous pouvez télécharger Python à partir de [python.org](https://www.python.org/downloads/).
 
-### Cloner le projet
+### Start
 
 
 (MacOS)
+1. Cloner le projet
 ```bash
 git clone https://github.com/MatthieuGillieron/CleanMyFils.git
 cd CleanMyFils
 ```
-
+2. Executer
 ```bash
 ./setup.sh
 python script.py
